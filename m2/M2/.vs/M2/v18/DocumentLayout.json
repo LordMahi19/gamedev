@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Game Development\\m2\\M2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|d:\\desktop\\game development\\m2\\m2\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Give.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Actions\\Give.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\actions\\use.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\use.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Actions\\Read.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|D:\\Desktop\\Game Development\\m2\\M2\\assets\\scripts\\actions\\say.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEF9C3F-89CA-8C2C-0D00-2F2731FBCC54}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\actions\\say.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:23:26.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Location.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Location.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Location.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Location.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T12:19:00.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Connection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Connection.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Connection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:57:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Location.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Location.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Location.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Location.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:57:07.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:56:57.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Action.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Action.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Action.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Action.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:56:52.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interaction.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Interaction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Interaction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:55:23.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Use.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Use.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\Use.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Use.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\Use.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:45:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Say.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Say.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\Say.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Say.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\Say.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:32:44.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Give.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Give.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\Give.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Give.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\Give.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T18:32:06.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:23:41.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Read.cs",
+              "DocumentMoniker": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Read.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Actions\\Read.cs",
+              "ToolTip": "D:\\Desktop\\Game Development\\m2\\M2\\Assets\\Scripts\\Actions\\Read.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Actions\\Read.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T23:23:14.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
